@@ -47,3 +47,9 @@ You are old.
 You are old.
 You are old.
 
+
+Now i am writing programs regarding the joy of computing using python
+
+example 1:
+
+
